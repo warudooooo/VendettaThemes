@@ -1,0 +1,124 @@
+{
+    "name": "Oled Blue",
+    "description": "An oled blue theme. Dark mode is required!",
+    "authors": [
+        {
+            "name": "warudo#7898",
+            "id": "582752944127213570"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#669bbc"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#669bbc"
+        ],
+        "TEXT_LINK": [
+            "#669bbc"
+        ],
+        "TEXT_DANGER": [
+            "#669bbc"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#808080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#669bbc"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#e6669bbc"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#669bbc"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#000000"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#000000"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c4c4c4"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#669bbc",
+        "PRIMARY_500": "#669bbc",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "BRAND_260": "#669bbc",
+        "BRAND_360": "#669bbc",
+        "BRAND_500": "#669bbc",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#669bbc",
+        "YELLOW_300": "#669bbc",
+        "ORANGE_345": "#669bbc",
+        "GREEN_345": "#669bbc",
+        "GREEN_360": "#669bbc",
+        "RED_560" : "#669bbc",
+        "RED_400": "#669bbc"
+    },
+    "spec": 2,
+    "background": {
+        "color": "#000000"
+    }
+}

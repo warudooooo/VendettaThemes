@@ -9,4 +9,5 @@ Copy the raw link for the desired theme and paste it in `Settings -> Vendetta ->
 Raw link:
 https://raw.githubusercontent.com/warudooooo/VendettaThemes/main/Oled-Blue/oled-blue.json
 
-
+### Preview:
+![](https://raw.githubusercontent.com/warudooooo/VendettaThemes/main/Oled-Blue/screenshots.png)

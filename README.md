@@ -5,4 +5,8 @@ You need [Vendetta](https://github.com/vendetta-mod/Vendetta#installing) install
 ## How to install theme:
 Copy the raw link for the desired theme and paste it in `Settings -> Vendetta -> Themes -> Plus Sign` to install the theme.
 
+## Oled Blue
+Raw link:
+https://raw.githubusercontent.com/warudooooo/VendettaThemes/main/Oled-Blue/oled-blue.json
+
 

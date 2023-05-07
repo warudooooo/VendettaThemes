@@ -10,8 +10,7 @@
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#ffffffff"
-        ],
-        "HEADER_SECONDARY": [
+        ],"HEADER_SECONDARY": [
             "#ffffffff"
         ],
         "TEXT_NORMAL": [
@@ -33,9 +32,7 @@
             "#ffffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#4e5058",
-            "#c4c9ce",
-            "#4e5058"
+            "#495057"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -83,7 +80,7 @@
             "transparent"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#999999"
+            "#ced4da"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
@@ -116,7 +113,7 @@
         "ORANGE_345": "#343a40",
         "GREEN_345": "#343a40",
         "GREEN_360": "#343a40",
-        "RED_560": "#343a40",
+        "RED_560" : "#343a40",
         "RED_400": "#343a40"
     },
     "spec": 2,

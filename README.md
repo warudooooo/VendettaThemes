@@ -14,3 +14,10 @@ https://raw.githubusercontent.com/warudooooo/VendettaThemes/main/Oled-Blue/oled-
 
 ### Preview:
 ![](https://raw.githubusercontent.com/warudooooo/VendettaThemes/main/Oled-Blue/screenshots.png)
+
+## Monochrome
+Raw link:
+https://raw.githubusercontent.com/warudooooo/VendettaThemes/main/Monochrome/Monochrome.json
+
+### Preview:
+![](https://raw.githubusercontent.com/warudooooo/VendettaThemes/main/Monochrome/screenshots.png)
